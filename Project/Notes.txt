@@ -1,0 +1,38 @@
+28.03.2012 Ларионов П.
+
+Уточнить правильность передачи пути для анализа.
+
+--------------------------------------------------------------------
+01.03.2012 Ларионов П.
+
+Добавлен первый вариант плагина Java Class Dependency. Производится 
+компиляция, генерация org-gephi-io-plugin-jcd.nbm, подключение к 
+Gephi.
+
+Пока не отображается диалоговое окно - нужно понять почему.
+
+--------------------------------------------------------------------
+29.02.2012 Ларионов П.
+
+SPI vs API…
+ API: 	Can be called to do something. For instance a module call the LayoutAPI to run a layout algorithm for 100 iterations.
+ SPI: 	Interface to be implemented. For example a plug-in implements the Layout interface to add a new layout
+
+SPIs is the classical way how features are implemented in Gephi (and Netbeans). You’ll see some packages ending with ‘spi’ in the Javadoc. 
+
+Simple SPI for adding new generators. Generator implements the LongTask interface to support progress and cancellation.
+ Create new generators
+ Provide a settings UI
+
+--------------------------------------------------------------------
+26.02.2012 Ларионов П.
+
+Плагин имеет вид модуля NetBeans - Java Class Dependency.
+При разработке потребуется исходный код Gephi. Наверное, 
+придется выложить его в наш репозиторий для единообразия.
+
+--------------------------------------------------------------------
+Название проекта: "Плагин к Gephi для визуализации отношений классов". 
+Заказчик: Тимофеев Денис Анатольевич <timofeevda@gmail.com>	
+Преподаватель: Беляев Михаил Анатольевич <belyaev@kspt.ftk.spbstu.ru>	
+Контрольные даты: Чт 01.03.12, Чт 29.03.12, Чт 26.04.12, Чт 24.05.12

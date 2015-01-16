@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="org-gephi-io-plugin-jcd-JCDGUITopComponent.shadow">
+                <!--org.gephi.io.plugin.jcd.JCDGUITopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/org-gephi-io-plugin-jcd-JCDGUITopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="JCDGUITopComponent.settings">
+                <!--org.gephi.io.plugin.jcd.JCDGUITopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.gephi.io.plugin.jcd.JCDGUITopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="properties">
+                <file name="JCDGUITopComponent.wstcref">
+                    <!--org.gephi.io.plugin.jcd.JCDGUITopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="JCDGUITopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="org_gephi_io_plugin_jcd">
+                <file name="JCDGUI" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--org.gephi.io.plugin.jcd.JCDGUITopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//org.gephi.io.plugin.jcd//JCDGUI//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="org">
+                <folder name="gephi">
+                    <folder name="io">
+                        <folder name="plugin">
+                            <folder name="jcd">
+                                <file name="JCDGUITopComponent">
+                                    <!--org.gephi.io.plugin.jcd.JCDGUITopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//org_gephi_io_plugin_jcd/JCDGUI.instance"/>
+                                </file>
+                            </folder>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="org_gephi_io_plugin_jcd">
+                <file name="JCDGUI.instance">
+                    <!--org.gephi.io.plugin.jcd.JCDGUITopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="org.gephi.io.plugin.jcd.JCDGUITopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="org.gephi.io.plugin.jcd.JCDGUITopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

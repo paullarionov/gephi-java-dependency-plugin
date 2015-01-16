@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-05-23T10:32:17</date>
+  <millis>1337758337296</millis>
+  <sequence>62</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGenerator</class>
+  <method>getUI</method>
+  <thread>20</thread>
+  <message>call GeneratorUI getUI</message>
+</record>
+<record>
+  <date>2012-05-23T10:32:17</date>
+  <millis>1337758337296</millis>
+  <sequence>63</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGeneratorGUI</class>
+  <method>setup</method>
+  <thread>20</thread>
+  <message>setupUI</message>
+</record>
+<record>
+  <date>2012-05-23T10:32:17</date>
+  <millis>1337758337312</millis>
+  <sequence>64</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGeneratorGUI</class>
+  <method>getPanel</method>
+  <thread>20</thread>
+  <message>getPanelUI</message>
+</record>
+<record>
+  <date>2012-05-23T10:32:25</date>
+  <millis>1337758345953</millis>
+  <sequence>65</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGUITopComponent</class>
+  <method>jOpenButtonActionPerformed</method>
+  <thread>20</thread>
+  <message>GUI: path = javax.swing.JTextField[,18,36,396x20,invalid,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@d5cdfb,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=javax.swing.plaf.ColorUIResource[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=172,g=168,b=153],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=2,left=2,bottom=2,right=2],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=49,g=106,b=197],columns=0,columnWidth=0,command=,horizontalAlignment=LEADING]</message>
+</record>
+<record>
+  <date>2012-05-23T10:32:28</date>
+  <millis>1337758348390</millis>
+  <sequence>66</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGeneratorGUI</class>
+  <method>unsetup</method>
+  <thread>20</thread>
+  <message>unsetupUI</message>
+</record>
+<record>
+  <date>2012-05-23T10:32:28</date>
+  <millis>1337758348546</millis>
+  <sequence>67</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGenerator</class>
+  <method>generate</method>
+  <thread>59</thread>
+  <message>Call: generate(ContainerLoader container)</message>
+</record>
+<record>
+  <date>2012-05-23T10:32:28</date>
+  <millis>1337758348546</millis>
+  <sequence>68</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>WARNING</level>
+  <class>org.gephi.io.plugin.jcd.JCDGenerator</class>
+  <method>clear</method>
+  <thread>59</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2012-05-23T10:32:41</date>
+  <millis>1337758361968</millis>
+  <sequence>81</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGenerator</class>
+  <method>getUI</method>
+  <thread>20</thread>
+  <message>call GeneratorUI getUI</message>
+</record>
+<record>
+  <date>2012-05-23T10:32:41</date>
+  <millis>1337758361968</millis>
+  <sequence>82</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGeneratorGUI</class>
+  <method>setup</method>
+  <thread>20</thread>
+  <message>setupUI</message>
+</record>
+<record>
+  <date>2012-05-23T10:32:41</date>
+  <millis>1337758361968</millis>
+  <sequence>83</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGeneratorGUI</class>
+  <method>getPanel</method>
+  <thread>20</thread>
+  <message>getPanelUI</message>
+</record>
+<record>
+  <date>2012-05-23T10:32:55</date>
+  <millis>1337758375750</millis>
+  <sequence>84</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGUITopComponent</class>
+  <method>jOpenButtonActionPerformed</method>
+  <thread>20</thread>
+  <message>GUI: path = javax.swing.JTextField[,18,36,396x20,invalid,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@d5cdfb,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=javax.swing.plaf.ColorUIResource[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=172,g=168,b=153],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=2,left=2,bottom=2,right=2],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=49,g=106,b=197],columns=0,columnWidth=0,command=,horizontalAlignment=LEADING]</message>
+</record>
+<record>
+  <date>2012-05-23T10:32:59</date>
+  <millis>1337758379171</millis>
+  <sequence>85</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGeneratorGUI</class>
+  <method>unsetup</method>
+  <thread>20</thread>
+  <message>unsetupUI</message>
+</record>
+<record>
+  <date>2012-05-23T10:32:59</date>
+  <millis>1337758379171</millis>
+  <sequence>86</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGenerator</class>
+  <method>generate</method>
+  <thread>81</thread>
+  <message>Call: generate(ContainerLoader container)</message>
+</record>
+<record>
+  <date>2012-05-23T10:35:17</date>
+  <millis>1337758517265</millis>
+  <sequence>2644</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGenerator</class>
+  <method>getUI</method>
+  <thread>20</thread>
+  <message>call GeneratorUI getUI</message>
+</record>
+<record>
+  <date>2012-05-23T10:35:17</date>
+  <millis>1337758517265</millis>
+  <sequence>2645</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGeneratorGUI</class>
+  <method>setup</method>
+  <thread>20</thread>
+  <message>setupUI</message>
+</record>
+<record>
+  <date>2012-05-23T10:35:17</date>
+  <millis>1337758517281</millis>
+  <sequence>2646</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGeneratorGUI</class>
+  <method>getPanel</method>
+  <thread>20</thread>
+  <message>getPanelUI</message>
+</record>
+<record>
+  <date>2012-05-23T10:35:25</date>
+  <millis>1337758525031</millis>
+  <sequence>2647</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGUITopComponent</class>
+  <method>jOpenButtonActionPerformed</method>
+  <thread>20</thread>
+  <message>GUI: path = javax.swing.JTextField[,18,36,396x20,invalid,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@d5cdfb,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=javax.swing.plaf.ColorUIResource[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=172,g=168,b=153],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=2,left=2,bottom=2,right=2],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=49,g=106,b=197],columns=0,columnWidth=0,command=,horizontalAlignment=LEADING]</message>
+</record>
+<record>
+  <date>2012-05-23T10:35:27</date>
+  <millis>1337758527312</millis>
+  <sequence>2648</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGeneratorGUI</class>
+  <method>unsetup</method>
+  <thread>20</thread>
+  <message>unsetupUI</message>
+</record>
+<record>
+  <date>2012-05-23T10:35:27</date>
+  <millis>1337758527328</millis>
+  <sequence>2649</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGenerator</class>
+  <method>generate</method>
+  <thread>90</thread>
+  <message>Call: generate(ContainerLoader container)</message>
+</record>
+<record>
+  <date>2012-05-23T10:35:35</date>
+  <millis>1337758535015</millis>
+  <sequence>2817</sequence>
+  <logger>JCDPluginLog</logger>
+  <level>INFO</level>
+  <class>org.gephi.io.plugin.jcd.JCDGenerator</class>
+  <method>generate</method>
+  <thread>90</thread>
+  <message>Analyze processor has finished with 68 errors</message>
+</record>
+</log>
